@@ -3,12 +3,12 @@ title: "About me"
 date: "2020-10-10"
 ---
 
-<h1 align="center">Hello 👋, I'm Rohan</h1>
-<h3 align="center">A passionate web developer from Kathmandu</h3>
+<h1>Hello 👋, I'm Rohan</h1>
+<h3>A passionate web developer from Kathmandu</h3>
 
 <br/>
 
-<p align="center">
+<p>
 <img src="https://komarev.com/ghpvc/?username=rohanrajgautam" alt="rohanrajgautam" /> 
 </p>
 
@@ -45,8 +45,8 @@ src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.s
 
 ### Connect with me:
 
-[<img align="left" alt="rrg" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rohangautam.com.np)
-[<img align="left" alt="rrg | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://fb.com/rohanrajgautam)
-[<img align="left" alt="rrg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rohanrajgautam)
-[<img align="left" alt="rrg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/rohanrajgautam)
-[<img align="left" alt="rrg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/iamrrg)
+[<img align="left" style="margin-right: 10px" alt="rrg" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rohangautam.com.np)
+[<img align="left" style="margin-right: 10px" alt="rrg | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://fb.com/rohanrajgautam)
+[<img align="left" style="margin-right: 10px" alt="rrg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rohanrajgautam)
+[<img align="left" style="margin-right: 10px" alt="rrg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/rohanrajgautam)
+[<img align="left" style="margin-right: 10px" alt="rrg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/iamrrg)
